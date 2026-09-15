@@ -1,3 +1,4 @@
+"start": "npm run build && node server/server.js",
 {
   "name": "agenda-de-contactos",
   "private": true,
